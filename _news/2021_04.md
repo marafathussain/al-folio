@@ -1,7 +1,0 @@
----
-layout: post
-date: 2021-04-15 021:30:00-0400
-inline: true
----
-
-Paper accepted in Computerized Medical Imaging and Graphics.

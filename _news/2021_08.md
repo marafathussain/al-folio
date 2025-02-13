@@ -1,7 +1,0 @@
----
-layout: post
-date: 2021-08-01 021:30:00-0400
-inline: true
----
-
-Paper accepted in Computers in Biology and Medicine.
